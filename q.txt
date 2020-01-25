@@ -1,9 +1,14 @@
 qqqq
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 zzzz
 
 aaaa
 >>>>>>> feature
+=======
+
+zzzz
+>>>>>>> parent of 6c6a355... onelove
