@@ -1,9 +1,1 @@
 qqqq
-
-<<<<<<< HEAD
-=======
-
-zzzz
-
-aaaa
->>>>>>> feature
